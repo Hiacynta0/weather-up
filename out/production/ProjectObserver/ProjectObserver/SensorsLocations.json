@@ -1,0 +1,22 @@
+[
+  {
+    "location": "Jelenia Gora",
+    "sensorKind": "TP"
+  },
+  {
+    "location": "Jawor",
+    "sensorKind": "HP"
+  },
+  {
+    "location": "Wroclaw",
+    "sensorKind": "THP"
+  },
+  {
+    "location": "Walbrzych",
+    "sensorKind": "TH"
+  },
+  {
+    "location": "Swidnica",
+    "sensorKind": "T"
+  }
+]
